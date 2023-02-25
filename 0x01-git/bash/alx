@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-#!/bin/bashOB
-echo "It's Upadate to Alx file "
-=======
-#!/bin/bash
-echo "Alx School :)"
->>>>>>> master
+echo "It's Upadate alx file "
+
