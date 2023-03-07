@@ -1,1 +1,2 @@
-echo "Update alx file *** "
+#!/bin/bash
+echo "ALX"
