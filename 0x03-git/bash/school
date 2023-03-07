@@ -1,1 +1,2 @@
-echo "Update school file ***"
+#!/bin/bash
+echo "The school is open!"
